@@ -21,7 +21,7 @@ Play the game here: [Number Guessing Game](https://nextjs-no-gussing-game.vercel
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/number-guessing-game.git
+    git clone https://github.com/Sheikh-Muhammad-Mujtaba/nextjs-no_gussing_game.git
     ```
 2. Install dependencies:
     ```bash
